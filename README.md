@@ -9,7 +9,7 @@ You can find this package on PyPI: [hf_downloader](https://pypi.org/project/hf_d
 ## Installation
 
 ```bash
-pip install huggingface_downloader
+pip install hf_downloader
 ```
 
 ## Usage
