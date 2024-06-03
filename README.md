@@ -4,12 +4,12 @@ A tool to download models from Hugging Face.
 
 ## Link to PyPI
 
-You can find this package on PyPI: [hf_downloader](https://pypi.org/project/hf_downloader/)
+You can find this package on PyPI: [hf_download](https://pypi.org/project/hf_download/)
 
 ## Installation
 
 ```bash
-pip install hf_downloader
+pip install hf_download
 ```
 
 ## Usage
