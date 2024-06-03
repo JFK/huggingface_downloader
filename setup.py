@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="hf_download",
-    version="1.0",
+    version="1.0.1",
     packages=find_packages(),
     install_requires=[
         "huggingface_hub",
@@ -20,7 +20,7 @@ setup(
     url="https://github.com/jfk/huggingface_downloader",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: Apache-2.0 license",
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
